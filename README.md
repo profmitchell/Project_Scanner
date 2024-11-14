@@ -1,3 +1,7 @@
+DOWNLOAD FOR MAC: https://github.com/profmitchell/Project_Scanner/releases/tag/release
+
+
+
 Project Structure Scanner - README
 Overview
 The Project Structure Scanner is a Python-based GUI application that allows you to scan a folder's contents and create a structured overview of its files and directories. The application scans for specific file types, displays the project structure, and exports this information in Markdown, JSON, or plain text format.
